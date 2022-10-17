@@ -17,7 +17,6 @@ for printer in printers:
         'i0019': '',    # enter password
     }
 
-   
     Data = []
 
     # get data:
