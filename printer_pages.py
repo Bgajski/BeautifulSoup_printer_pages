@@ -47,5 +47,4 @@ for printer in printers:
         column_01 = ['Printer_1']
     writer.writerow([column_01, column_printed_01])
 
-# close list
 file_name.close()
