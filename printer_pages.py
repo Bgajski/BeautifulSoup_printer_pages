@@ -13,7 +13,7 @@ for printer in printers:
 
     # credentials:  
     payload_printer = {
-        'i0017': '2',   # search the fields that indicate administrator number on web interface        
+        'i0017': '2',   # search the fields that indicates administrator number on the web interface        
         'i0019': '',    # enter password
     }
 
